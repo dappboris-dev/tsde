@@ -638,7 +638,7 @@ export async function checkMintKey(input: string) {
     const isValidPubkey = await verifySha256String(input, "sha256");
     const pubkey = new PublicKey(input);
     if (isValidPubkey) return PublicKey.isOnCurve(pubkey.toBytes()) ;
-    else return PublicKey.isOnCurve(pubkey.toBytes()) ;
+    else return true ;
     
   } catch {
     return false;
