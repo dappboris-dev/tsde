@@ -614,8 +614,8 @@ export async function extender_token(config: any = null) {
 		const walletNumbers = minAndMaxwalletNumber.split(" ").map(Number)
 
 		const buyAmount = getRandomNumber1(buyAmounts[0], buyAmounts[1]);
-		const sellAmount = getRandomNumber(sellAmounts[0], sellAmounts[1]);
-		const delay = getRandomNumber1(delayAmounts[0], delayAmounts[1]);
+		const sellAmount = getRandomNumber1(sellAmounts[0], sellAmounts[1]);
+		const delay = getRandomNumber(delayAmounts[0], delayAmounts[1]);
 		const walletNumber = getRandomNumber(walletNumbers[0], walletNumbers[1]);
 
 		// Generate new keypair(s) for the BUY step
