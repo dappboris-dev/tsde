@@ -1,0 +1,7315 @@
+2025-09-13T15:20:50.534Z - Simulation sendsol error: "BlockhashNotFound"
+2025-09-13T16:03:52.228Z - Simulation tx error: "BlockhashNotFound"
+2025-09-13T16:03:52.230Z - Simulation tx error: "BlockhashNotFound"
+2025-09-13T16:03:52.235Z - Simulation tx error: "BlockhashNotFound"
+2025-09-13T16:03:52.238Z - Simulation tx error: "BlockhashNotFound"
+2025-09-13T16:03:52.240Z - Simulation tx error: "BlockhashNotFound"
+2025-09-13T16:06:07.286Z - Simulation tx error: "BlockhashNotFound"
+2025-09-13T16:29:11.866Z - Simulation sendsol error: {
+  "InstructionError": [
+    1,
+    {
+      "Custom": 1
+    }
+  ]
+}
+2025-09-18T00:05:29.542Z - Simulation tx error: "BlockhashNotFound"
+2025-09-18T00:05:31.539Z - Simulation tx error: {
+  "InstructionError": [
+    0,
+    "InvalidAccountData"
+  ]
+}
+2025-09-18T00:05:31.541Z - Simulation tx error: "BlockhashNotFound"
+2025-09-18T00:05:31.543Z - Simulation tx error: {
+  "InstructionError": [
+    0,
+    "InvalidAccountData"
+  ]
+}
+2025-09-18T00:05:31.962Z - Simulation tx error: {
+  "InstructionError": [
+    0,
+    "InvalidAccountData"
+  ]
+}
+2025-09-18T00:05:31.966Z - Simulation tx error: "BlockhashNotFound"
+2025-09-18T00:05:32.237Z - Simulation tx error: "BlockhashNotFound"
+2025-09-18T00:05:32.409Z - Simulation tx error: {
+  "InstructionError": [
+    0,
+    "InvalidAccountData"
+  ]
+}
+2025-09-18T00:05:32.559Z - Simulation tx error: {
+  "InstructionError": [
+    0,
+    "InvalidAccountData"
+  ]
+}
+2025-09-18T00:05:32.712Z - Simulation tx error: {
+  "InstructionError": [
+    0,
+    "InvalidAccountData"
+  ]
+}
+2025-09-18T00:05:33.497Z - Simulation tx error: {
+  "InstructionError": [
+    0,
+    "InvalidAccountData"
+  ]
+}
+2025-09-18T00:05:33.498Z - Simulation tx error: {
+  "InstructionError": [
+    0,
+    {
+      "Custom": 1
+    }
+  ]
+}
+2025-09-18T00:05:33.641Z - Simulation tx error: "BlockhashNotFound"
+2025-09-18T00:05:33.788Z - Simulation tx error: {
+  "InstructionError": [
+    0,
+    {
+      "Custom": 1
+    }
+  ]
+}
+2025-09-18T00:05:34.275Z - Simulation tx error: {
+  "InstructionError": [
+    0,
+    {
+      "Custom": 1
+    }
+  ]
+}
+2025-09-18T00:17:22.270Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:27.133Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:27.297Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:27.453Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:27.605Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:27.760Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:27.929Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:28.086Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:28.233Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:28.390Z - Simulation tx error: "BlockhashNotFound"
+2025-09-18T00:17:28.537Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:28.685Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:28.842Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:28.985Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:29.133Z - Simulation tx error: "BlockhashNotFound"
+2025-09-18T00:17:29.275Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:29.418Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:29.559Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:29.703Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:29.849Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:29.996Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:30.138Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:30.281Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:30.429Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:30.575Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:30.717Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:30.860Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:31.012Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:31.169Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:31.325Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:31.480Z - Simulation tx error: "BlockhashNotFound"
+2025-09-18T00:17:31.632Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:31.793Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:31.942Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:32.088Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:32.235Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:32.385Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:32.536Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:32.693Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:32.846Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:33.008Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:33.159Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:33.305Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:33.449Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:33.601Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:33.756Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:33.916Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:34.071Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:34.234Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:34.382Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:34.528Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:34.673Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:34.818Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:34.962Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:35.104Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:35.246Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:35.387Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:35.530Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:35.670Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:35.808Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:35.950Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:36.090Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:36.234Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:36.378Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:36.525Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:36.670Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:36.821Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:36.965Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:37.106Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:37.248Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:37.392Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:37.542Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:37.681Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:37.826Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:37.982Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:38.131Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:38.281Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:38.434Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:38.588Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:38.732Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:38.880Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:39.020Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:39.166Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:39.304Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:39.447Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:39.588Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:39.726Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:39.881Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:40.021Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:40.166Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:40.317Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:40.457Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:40.594Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:40.732Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:40.872Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:41.009Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:41.149Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:41.293Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:41.431Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:41.579Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:41.721Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:41.859Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:42.001Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:42.145Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:42.294Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:42.439Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:42.580Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:42.724Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:42.863Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:43.010Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:43.162Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:43.303Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:43.443Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:43.591Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:43.737Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:43.881Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:44.043Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:44.193Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:44.348Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:44.496Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:44.639Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:44.992Z - Simulation tx error: "BlockhashNotFound"
+2025-09-18T00:17:45.183Z - Simulation tx error: "BlockhashNotFound"
+2025-09-18T00:17:45.339Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:45.533Z - Simulation tx error: "BlockhashNotFound"
+2025-09-18T00:17:45.685Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:45.828Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:45.982Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:46.117Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:46.254Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:46.403Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:46.538Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:46.680Z - Simulation tx error: "BlockhashNotFound"
+2025-09-18T00:17:46.818Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:46.957Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:47.096Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:47.240Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:47.392Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:47.529Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:47.695Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:47.833Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:47.986Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:48.127Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:48.278Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:48.420Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:48.566Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:48.707Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:48.846Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:48.992Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:49.134Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:49.283Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:49.426Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:49.576Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:49.723Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:49.873Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:50.015Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:50.155Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:50.307Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:50.467Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:50.617Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:50.769Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:50.919Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:51.069Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:51.222Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:51.443Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:51.602Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:51.829Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:51.982Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:52.207Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:52.356Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:52.575Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:52.741Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:52.901Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:53.125Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:53.294Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:53.538Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:53.699Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:53.932Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:54.103Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:54.351Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:55.949Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:58.315Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:58.574Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:58.822Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:59.060Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:59.229Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:59.471Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:59.645Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:17:59.885Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:00.072Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:00.331Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:00.526Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:00.781Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:01.034Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:01.228Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:01.469Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:01.647Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:01.921Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:08.046Z - Simulation tx error: "BlockhashNotFound"
+2025-09-18T00:18:08.942Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:09.729Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:11.246Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:12.265Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:12.498Z - Simulation tx error: "BlockhashNotFound"
+2025-09-18T00:18:12.726Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:12.886Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:13.110Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:13.265Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:13.498Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:13.671Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:13.899Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:14.074Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:14.305Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:14.466Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:14.632Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:14.800Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:15.022Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:15.177Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:15.403Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:15.565Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:15.798Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:15.953Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:16.182Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:16.340Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:16.568Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:16.729Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:16.888Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:17.113Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:17.272Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:17.499Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:17.654Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:17.880Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:18.041Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:18.271Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:18.431Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:18.659Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:18.825Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:19.054Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:19.230Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:19.475Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:19.647Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:19.818Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:19.979Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:20.152Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:20.333Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:20.503Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:20.678Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:20.841Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:21.010Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:21.177Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:21.353Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:21.511Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:21.664Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:21.888Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:22.044Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:22.272Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:22.445Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:22.676Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:22.841Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:23.071Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:23.228Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:23.452Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:23.627Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:23.869Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:24.038Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:24.268Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:24.429Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:24.651Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:24.820Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:25.050Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:25.213Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:25.439Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:25.610Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:25.833Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:25.993Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:26.225Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:26.385Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:26.620Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:26.772Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:26.992Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:27.155Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:27.378Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:27.550Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:27.705Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:27.934Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:28.097Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:28.337Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:28.496Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:28.719Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:28.895Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:29.124Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:29.277Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:29.495Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:29.650Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:29.869Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:30.036Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:30.270Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:30.426Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:30.645Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:30.815Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:31.045Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:31.206Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:31.358Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:31.521Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:31.690Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:31.918Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:32.086Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:32.308Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:32.478Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:32.708Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:32.884Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:33.049Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:33.213Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:33.370Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:33.524Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:33.681Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:33.839Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:34.008Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:34.169Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:34.337Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:34.496Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:34.650Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:34.873Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:35.027Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:35.178Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:35.333Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:35.485Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:35.638Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:35.794Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:35.976Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:36.141Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:36.302Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:36.468Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:36.628Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:36.785Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:36.944Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:37.098Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:37.252Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:37.411Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:37.568Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:37.724Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:37.880Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:38.052Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:38.212Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:38.378Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:38.533Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:38.691Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:38.861Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:39.018Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:39.172Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:39.326Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:39.483Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:39.635Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:39.791Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:39.942Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:40.099Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:40.252Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:40.409Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:40.580Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:40.744Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:40.896Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:41.048Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:41.206Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:41.362Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:41.537Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:41.692Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:41.853Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:42.014Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:42.176Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:42.329Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:42.486Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:42.650Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:42.815Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:43.037Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:43.196Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:43.422Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:43.594Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:43.826Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:43.998Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:44.218Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:44.386Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:44.626Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:44.787Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:45.029Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:45.194Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:45.416Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:45.570Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:45.797Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:45.956Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:46.176Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:46.346Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:46.497Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:46.721Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:46.876Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:47.114Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:47.272Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:47.491Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:47.664Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:47.894Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:48.050Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:48.274Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:48.484Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:48.746Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:48.901Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:49.128Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:49.288Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:49.512Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:49.683Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:49.915Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:50.075Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:50.305Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:50.464Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:50.685Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:50.861Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:51.100Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:51.272Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:51.492Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:51.644Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:51.866Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:52.030Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:52.252Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:52.405Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:52.631Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:52.820Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:52.990Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:53.159Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:53.312Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:53.463Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:53.623Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:53.848Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:54.008Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:54.232Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:54.405Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:54.636Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:54.799Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:54.961Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:55.121Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:55.276Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:55.435Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:55.595Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:55.753Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:55.912Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:56.067Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:56.223Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:56.378Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:56.532Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:56.696Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:56.847Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:57.001Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:57.158Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:57.312Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:57.466Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:57.622Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:57.781Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:57.937Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:58.108Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:58.274Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:58.426Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:58.586Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:58.741Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:58.895Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:59.053Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:59.209Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:59.361Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:59.521Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:59.679Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:59.839Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:18:59.993Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:00.148Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:00.318Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:00.474Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:00.630Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:00.795Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:00.959Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:01.113Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:01.280Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:01.441Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:01.599Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:01.753Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:01.913Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:02.075Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:02.231Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:02.387Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:02.538Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:02.692Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:02.852Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:03.081Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:03.233Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:03.470Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:03.640Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:03.877Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:04.038Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:04.270Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:04.437Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:04.666Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:04.825Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:05.054Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:05.220Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:05.452Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:05.619Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:05.845Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:06.009Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:06.233Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:06.398Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:06.635Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:06.921Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:07.088Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:07.276Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:07.511Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:07.676Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:07.848Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:08.019Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:08.243Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:08.406Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:08.673Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:08.863Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:09.098Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:09.264Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:09.504Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:09.678Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:09.926Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:10.091Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:10.324Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:10.501Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:10.742Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:10.920Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:11.146Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:11.367Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:11.537Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:11.693Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:11.921Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:12.080Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:12.305Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:12.462Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:12.708Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:12.843Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:13.045Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:13.181Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:13.383Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:13.531Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:13.664Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:13.867Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:14.003Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:14.214Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:14.352Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:14.554Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:14.691Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:14.826Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:15.028Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:15.162Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:15.371Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:15.511Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:15.653Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:15.853Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:15.997Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:16.201Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:16.341Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:16.543Z - Simulation tx error: "BlockhashNotFound"
+2025-09-18T00:19:16.679Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:16.824Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:17.040Z - Simulation tx error: "BlockhashNotFound"
+2025-09-18T00:19:17.179Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:17.316Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:17.469Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:17.615Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:17.833Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:17.995Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:18.232Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:18.358Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:18.554Z - Simulation tx error: "BlockhashNotFound"
+2025-09-18T00:19:18.687Z - Simulation tx error: "BlockhashNotFound"
+2025-09-18T00:19:18.818Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:19.015Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:19.153Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:19.280Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:19.412Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:19.541Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:19.742Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:19.876Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:20.005Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:20.213Z - Simulation tx error: "BlockhashNotFound"
+2025-09-18T00:19:20.339Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:20.544Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:20.674Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:20.801Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:20.993Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:21.121Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:21.248Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:21.439Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:21.564Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:21.756Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:21.882Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:22.006Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:22.198Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:22.324Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:22.451Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:22.650Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:22.775Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:22.967Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:23.088Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:23.221Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:23.413Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:23.538Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:23.762Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:23.890Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:24.047Z - Simulation tx error: "BlockhashNotFound"
+2025-09-18T00:19:24.255Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:24.396Z - Simulation tx error: "BlockhashNotFound"
+2025-09-18T00:19:24.589Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:24.712Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:24.838Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:25.032Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:25.156Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:25.348Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:25.476Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:25.599Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:25.791Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:25.919Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:26.043Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:26.237Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:26.362Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:26.555Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:26.683Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:26.810Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:26.936Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:27.060Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:27.184Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:27.317Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:27.440Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:27.563Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:27.687Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:27.810Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:27.936Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:28.126Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:28.250Z - Simulation tx error: "BlockhashNotFound"
+2025-09-18T00:19:28.376Z - Simulation tx error: "BlockhashNotFound"
+2025-09-18T00:19:28.568Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:28.692Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:28.818Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:29.011Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:29.136Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:29.327Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:29.450Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:29.576Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:29.767Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:29.890Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:30.017Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:30.140Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:30.267Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:30.392Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:30.584Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:30.711Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:30.834Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:31.026Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:31.154Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:31.345Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:31.471Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:31.596Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:31.798Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:31.929Z - Simulation tx error: "BlockhashNotFound"
+2025-09-18T00:19:32.052Z - Simulation tx error: "BlockhashNotFound"
+2025-09-18T00:19:32.246Z - Simulation tx error: "BlockhashNotFound"
+2025-09-18T00:19:32.384Z - Simulation tx error: "BlockhashNotFound"
+2025-09-18T00:19:32.578Z - Simulation tx error: "BlockhashNotFound"
+2025-09-18T00:19:32.709Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:32.835Z - Simulation tx error: "BlockhashNotFound"
+2025-09-18T00:19:33.024Z - Simulation tx error: "BlockhashNotFound"
+2025-09-18T00:19:33.149Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:33.339Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:33.466Z - Simulation tx error: "BlockhashNotFound"
+2025-09-18T00:19:33.605Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:33.799Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:33.930Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:34.121Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:34.253Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:34.378Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:34.572Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:34.698Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:34.824Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:35.017Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:35.143Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:35.338Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:35.463Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:35.593Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:35.785Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:35.921Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:36.064Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:36.265Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:36.395Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:36.593Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:36.719Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:36.846Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:37.039Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:37.165Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:37.370Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:37.506Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:37.639Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:37.834Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:37.959Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:38.157Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:38.280Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:38.403Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:19:38.598Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:50:29.654Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:50:36.430Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:50:36.609Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:50:36.754Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:50:36.883Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:50:37.016Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:50:37.154Z - Simulation tx error: "BlockhashNotFound"
+2025-09-18T00:50:37.284Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:50:37.420Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:50:37.556Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:50:37.692Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:50:37.830Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:50:37.961Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:50:38.103Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:50:38.237Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:50:38.372Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:50:38.503Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:50:38.635Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:50:38.765Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:50:38.898Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:50:39.028Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:50:39.160Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:50:39.288Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:50:39.417Z - Simulation tx error: "BlockhashNotFound"
+2025-09-18T00:50:39.547Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:50:39.676Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:50:39.802Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:50:39.934Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:50:40.063Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:50:40.437Z - Simulation tx error: "BlockhashNotFound"
+2025-09-18T00:50:40.566Z - Simulation tx error: "BlockhashNotFound"
+2025-09-18T00:50:40.693Z - Simulation tx error: "BlockhashNotFound"
+2025-09-18T00:50:40.822Z - Simulation tx error: "BlockhashNotFound"
+2025-09-18T00:50:40.949Z - Simulation tx error: "BlockhashNotFound"
+2025-09-18T00:50:41.076Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:50:41.207Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:50:41.333Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:50:41.463Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:50:41.591Z - Simulation tx error: "BlockhashNotFound"
+2025-09-18T00:50:41.719Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:50:41.849Z - Simulation tx error: "BlockhashNotFound"
+2025-09-18T00:50:41.978Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:50:42.111Z - Simulation tx error: "BlockhashNotFound"
+2025-09-18T00:50:42.238Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:50:42.364Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:50:42.495Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:50:42.624Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:50:42.751Z - Simulation tx error: "BlockhashNotFound"
+2025-09-18T00:50:42.881Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:50:43.014Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:51:45.430Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:51:45.704Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:51:45.848Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:51:45.996Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:51:46.202Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:51:46.351Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:51:46.561Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:51:46.695Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:51:46.843Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:51:47.054Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:51:47.187Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:51:47.392Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:51:47.522Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:51:47.731Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:51:47.867Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:51:48.000Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:51:48.197Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:51:48.330Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:51:48.528Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:51:48.658Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:51:48.786Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:51:48.983Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:51:49.125Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:51:49.257Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:51:49.391Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:51:49.522Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:51:49.651Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:51:49.785Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:51:49.915Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:51:50.045Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:51:50.175Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:51:50.301Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:51:50.433Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:51:50.564Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:51:50.691Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:51:50.821Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:51:50.957Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:51:51.095Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:51:51.228Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:51:51.364Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:51:51.503Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:51:51.636Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:51:51.761Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:51:51.892Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:51:52.018Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:51:52.145Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:51:52.282Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:51:52.410Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:51:52.541Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:51:52.673Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:51:52.800Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:51:52.928Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:51:53.054Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:51:53.181Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:51:53.314Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:51:53.442Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:51:53.570Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:51:53.705Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:51:53.834Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:51:53.967Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:51:54.094Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:51:54.222Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:51:54.353Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:51:54.481Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T00:51:54.616Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T01:21:28.438Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T01:21:28.441Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T01:21:28.915Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T01:21:28.917Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T01:21:29.443Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T01:21:29.446Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T01:21:29.910Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T01:21:29.912Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T01:21:30.351Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T01:21:30.353Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T01:21:30.778Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T01:21:30.782Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T01:21:31.699Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T01:21:31.701Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T01:21:32.112Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T01:21:32.114Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T01:21:32.535Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T01:21:32.537Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T01:21:33.459Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T01:21:33.461Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T01:21:33.883Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T01:21:33.885Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T01:21:34.291Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T01:21:34.293Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T01:21:35.058Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T01:21:35.060Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T01:21:35.454Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T01:21:35.456Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T01:21:35.864Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T01:21:35.866Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T01:21:36.266Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T01:21:36.267Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T01:21:37.171Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T01:21:37.172Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T01:21:37.576Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T01:21:37.577Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T01:21:37.981Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T01:21:37.983Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T01:21:38.396Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T01:21:38.398Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T01:21:38.804Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T01:21:38.805Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T01:21:39.701Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T01:21:39.702Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T01:21:40.102Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T01:21:40.104Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T01:21:40.541Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T01:21:40.543Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T01:21:41.467Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T01:21:41.469Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T01:21:41.945Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T01:21:41.947Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T01:21:42.373Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T01:21:42.375Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T01:21:42.801Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T01:21:42.803Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T01:21:43.651Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T01:21:43.653Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T01:21:43.996Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T01:21:43.998Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T01:21:44.412Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T01:21:44.413Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T01:21:44.759Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T01:21:44.763Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T01:21:45.665Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T01:21:45.668Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T01:21:46.058Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T01:21:46.060Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T01:21:46.465Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T01:21:46.466Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T01:21:47.362Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T01:21:47.363Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T01:21:47.752Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T01:21:47.754Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T01:21:48.140Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T01:21:48.142Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T01:21:49.041Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T01:21:49.043Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T01:21:49.435Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T01:21:49.437Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T01:21:49.822Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T01:21:49.824Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T01:21:50.722Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T01:21:50.723Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T01:21:51.110Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T01:21:51.112Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T01:21:51.506Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T01:21:51.508Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T01:21:52.282Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T01:21:52.284Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T01:21:52.686Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T01:21:52.689Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T01:21:53.092Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T01:21:53.094Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T01:21:54.016Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T01:21:54.018Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T01:21:54.406Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T01:21:54.408Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T01:21:54.797Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T01:21:54.799Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T01:21:55.623Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T01:21:55.624Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T01:21:56.028Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T01:21:56.029Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T01:21:56.441Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T01:21:56.444Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T01:21:56.854Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T01:21:56.856Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T01:21:57.763Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T01:21:57.764Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T01:21:58.167Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T01:21:58.169Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T01:21:58.570Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T01:21:58.572Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T01:21:59.474Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T01:21:59.476Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T01:21:59.869Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
+2025-09-18T01:21:59.870Z - Simulation tx error: {
+  "InstructionError": [
+    2,
+    {
+      "Custom": 3012
+    }
+  ]
+}
