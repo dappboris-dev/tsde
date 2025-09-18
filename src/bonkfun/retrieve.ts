@@ -16,7 +16,7 @@ require("dotenv").config();
 const DEBUG = process.env.DEBUG?.toLowerCase() === "true";
 
 const prompt = promptSync();
-const keypairsDir = "src/bonkfun/backup";
+const keypairsDir = "src/bonkfun/keypairs";
 
 export async function closeAcc() {
 	console.clear();

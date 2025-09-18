@@ -37452,3 +37452,598 @@ Catch the `SendTransactionError` and call `getLogs()` on it for full details.
     at async extender_token (/root/workspave/cpmm_bonkfun_volume_bot/src/raydiumcpmm/bot.ts:652:4)
     at async runRaydiumVolumeBot (/root/workspave/cpmm_bonkfun_volume_bot/src/raydiumcpmm/index.ts:80:5)
 ==================================================
+
+[2025-09-18T07:34:45.505Z] Transaction 1 error:
+
+Error: Simulation failed. 
+Message: Transaction simulation failed: Attempt to debit an account but found no record of a prior credit.. 
+Logs: 
+[]. 
+Catch the `SendTransactionError` and call `getLogs()` on it for full details.
+    at Connection.sendEncodedTransaction (/root/workspave/cpmm_bonkfun_volume_bot/node_modules/@solana/web3.js/src/connection.ts:6053:13)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async Connection.sendRawTransaction (/root/workspave/cpmm_bonkfun_volume_bot/node_modules/@solana/web3.js/src/connection.ts:6009:20)
+    at async Connection.sendTransaction (/root/workspave/cpmm_bonkfun_volume_bot/node_modules/@solana/web3.js/src/connection.ts:5958:14)
+    at async sendTransactionsSequentially (/root/workspave/cpmm_bonkfun_volume_bot/src/bonkfun/bot.ts:766:22)
+    at async executeSwaps (/root/workspave/cpmm_bonkfun_volume_bot/src/bonkfun/bot.ts:235:2)
+    at async extender_token (/root/workspave/cpmm_bonkfun_volume_bot/src/bonkfun/bot.ts:418:5)
+    at async runBonkfunVolumeBot (/root/workspave/cpmm_bonkfun_volume_bot/src/bonkfun/index.ts:78:5)
+==================================================
+
+[2025-09-18T07:34:45.552Z] Transaction 2 error:
+
+Error: Simulation failed. 
+Message: Transaction simulation failed: Attempt to debit an account but found no record of a prior credit.. 
+Logs: 
+[]. 
+Catch the `SendTransactionError` and call `getLogs()` on it for full details.
+    at Connection.sendEncodedTransaction (/root/workspave/cpmm_bonkfun_volume_bot/node_modules/@solana/web3.js/src/connection.ts:6053:13)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async Connection.sendRawTransaction (/root/workspave/cpmm_bonkfun_volume_bot/node_modules/@solana/web3.js/src/connection.ts:6009:20)
+    at async Connection.sendTransaction (/root/workspave/cpmm_bonkfun_volume_bot/node_modules/@solana/web3.js/src/connection.ts:5958:14)
+    at async sendTransactionsSequentially (/root/workspave/cpmm_bonkfun_volume_bot/src/bonkfun/bot.ts:766:22)
+    at async executeSwaps (/root/workspave/cpmm_bonkfun_volume_bot/src/bonkfun/bot.ts:235:2)
+    at async extender_token (/root/workspave/cpmm_bonkfun_volume_bot/src/bonkfun/bot.ts:418:5)
+    at async runBonkfunVolumeBot (/root/workspave/cpmm_bonkfun_volume_bot/src/bonkfun/index.ts:78:5)
+==================================================
+
+[2025-09-18T07:34:45.556Z] Transaction 3 error:
+
+Error: Simulation failed. 
+Message: Transaction simulation failed: Attempt to debit an account but found no record of a prior credit.. 
+Logs: 
+[]. 
+Catch the `SendTransactionError` and call `getLogs()` on it for full details.
+    at Connection.sendEncodedTransaction (/root/workspave/cpmm_bonkfun_volume_bot/node_modules/@solana/web3.js/src/connection.ts:6053:13)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async Connection.sendRawTransaction (/root/workspave/cpmm_bonkfun_volume_bot/node_modules/@solana/web3.js/src/connection.ts:6009:20)
+    at async Connection.sendTransaction (/root/workspave/cpmm_bonkfun_volume_bot/node_modules/@solana/web3.js/src/connection.ts:5958:14)
+    at async sendTransactionsSequentially (/root/workspave/cpmm_bonkfun_volume_bot/src/bonkfun/bot.ts:766:22)
+    at async executeSwaps (/root/workspave/cpmm_bonkfun_volume_bot/src/bonkfun/bot.ts:235:2)
+    at async extender_token (/root/workspave/cpmm_bonkfun_volume_bot/src/bonkfun/bot.ts:418:5)
+    at async runBonkfunVolumeBot (/root/workspave/cpmm_bonkfun_volume_bot/src/bonkfun/index.ts:78:5)
+==================================================
+
+[2025-09-18T07:34:45.560Z] Transaction 4 error:
+
+Error: Simulation failed. 
+Message: Transaction simulation failed: Attempt to debit an account but found no record of a prior credit.. 
+Logs: 
+[]. 
+Catch the `SendTransactionError` and call `getLogs()` on it for full details.
+    at Connection.sendEncodedTransaction (/root/workspave/cpmm_bonkfun_volume_bot/node_modules/@solana/web3.js/src/connection.ts:6053:13)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async Connection.sendRawTransaction (/root/workspave/cpmm_bonkfun_volume_bot/node_modules/@solana/web3.js/src/connection.ts:6009:20)
+    at async Connection.sendTransaction (/root/workspave/cpmm_bonkfun_volume_bot/node_modules/@solana/web3.js/src/connection.ts:5958:14)
+    at async sendTransactionsSequentially (/root/workspave/cpmm_bonkfun_volume_bot/src/bonkfun/bot.ts:766:22)
+    at async executeSwaps (/root/workspave/cpmm_bonkfun_volume_bot/src/bonkfun/bot.ts:235:2)
+    at async extender_token (/root/workspave/cpmm_bonkfun_volume_bot/src/bonkfun/bot.ts:418:5)
+    at async runBonkfunVolumeBot (/root/workspave/cpmm_bonkfun_volume_bot/src/bonkfun/index.ts:78:5)
+==================================================
+
+[2025-09-18T07:34:47.972Z] Transaction 1 error:
+
+Error: Simulation failed. 
+Message: Transaction simulation failed: Attempt to debit an account but found no record of a prior credit.. 
+Logs: 
+[]. 
+Catch the `SendTransactionError` and call `getLogs()` on it for full details.
+    at Connection.sendEncodedTransaction (/root/workspave/cpmm_bonkfun_volume_bot/node_modules/@solana/web3.js/src/connection.ts:6053:13)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async Connection.sendRawTransaction (/root/workspave/cpmm_bonkfun_volume_bot/node_modules/@solana/web3.js/src/connection.ts:6009:20)
+    at async Connection.sendTransaction (/root/workspave/cpmm_bonkfun_volume_bot/node_modules/@solana/web3.js/src/connection.ts:5958:14)
+    at async sendTransactionsSequentially (/root/workspave/cpmm_bonkfun_volume_bot/src/bonkfun/bot.ts:766:22)
+    at async executeSwaps (/root/workspave/cpmm_bonkfun_volume_bot/src/bonkfun/bot.ts:235:2)
+    at async extender_token (/root/workspave/cpmm_bonkfun_volume_bot/src/bonkfun/bot.ts:418:5)
+    at async runBonkfunVolumeBot (/root/workspave/cpmm_bonkfun_volume_bot/src/bonkfun/index.ts:78:5)
+==================================================
+
+[2025-09-18T07:34:47.975Z] Transaction 2 error:
+
+Error: Simulation failed. 
+Message: Transaction simulation failed: Attempt to debit an account but found no record of a prior credit.. 
+Logs: 
+[]. 
+Catch the `SendTransactionError` and call `getLogs()` on it for full details.
+    at Connection.sendEncodedTransaction (/root/workspave/cpmm_bonkfun_volume_bot/node_modules/@solana/web3.js/src/connection.ts:6053:13)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async Connection.sendRawTransaction (/root/workspave/cpmm_bonkfun_volume_bot/node_modules/@solana/web3.js/src/connection.ts:6009:20)
+    at async Connection.sendTransaction (/root/workspave/cpmm_bonkfun_volume_bot/node_modules/@solana/web3.js/src/connection.ts:5958:14)
+    at async sendTransactionsSequentially (/root/workspave/cpmm_bonkfun_volume_bot/src/bonkfun/bot.ts:766:22)
+    at async executeSwaps (/root/workspave/cpmm_bonkfun_volume_bot/src/bonkfun/bot.ts:235:2)
+    at async extender_token (/root/workspave/cpmm_bonkfun_volume_bot/src/bonkfun/bot.ts:418:5)
+    at async runBonkfunVolumeBot (/root/workspave/cpmm_bonkfun_volume_bot/src/bonkfun/index.ts:78:5)
+==================================================
+
+[2025-09-18T07:34:47.978Z] Transaction 3 error:
+
+Error: Simulation failed. 
+Message: Transaction simulation failed: Attempt to debit an account but found no record of a prior credit.. 
+Logs: 
+[]. 
+Catch the `SendTransactionError` and call `getLogs()` on it for full details.
+    at Connection.sendEncodedTransaction (/root/workspave/cpmm_bonkfun_volume_bot/node_modules/@solana/web3.js/src/connection.ts:6053:13)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async Connection.sendRawTransaction (/root/workspave/cpmm_bonkfun_volume_bot/node_modules/@solana/web3.js/src/connection.ts:6009:20)
+    at async Connection.sendTransaction (/root/workspave/cpmm_bonkfun_volume_bot/node_modules/@solana/web3.js/src/connection.ts:5958:14)
+    at async sendTransactionsSequentially (/root/workspave/cpmm_bonkfun_volume_bot/src/bonkfun/bot.ts:766:22)
+    at async executeSwaps (/root/workspave/cpmm_bonkfun_volume_bot/src/bonkfun/bot.ts:235:2)
+    at async extender_token (/root/workspave/cpmm_bonkfun_volume_bot/src/bonkfun/bot.ts:418:5)
+    at async runBonkfunVolumeBot (/root/workspave/cpmm_bonkfun_volume_bot/src/bonkfun/index.ts:78:5)
+==================================================
+
+[2025-09-18T07:34:47.981Z] Transaction 4 error:
+
+Error: Simulation failed. 
+Message: Transaction simulation failed: Attempt to debit an account but found no record of a prior credit.. 
+Logs: 
+[]. 
+Catch the `SendTransactionError` and call `getLogs()` on it for full details.
+    at Connection.sendEncodedTransaction (/root/workspave/cpmm_bonkfun_volume_bot/node_modules/@solana/web3.js/src/connection.ts:6053:13)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async Connection.sendRawTransaction (/root/workspave/cpmm_bonkfun_volume_bot/node_modules/@solana/web3.js/src/connection.ts:6009:20)
+    at async Connection.sendTransaction (/root/workspave/cpmm_bonkfun_volume_bot/node_modules/@solana/web3.js/src/connection.ts:5958:14)
+    at async sendTransactionsSequentially (/root/workspave/cpmm_bonkfun_volume_bot/src/bonkfun/bot.ts:766:22)
+    at async executeSwaps (/root/workspave/cpmm_bonkfun_volume_bot/src/bonkfun/bot.ts:235:2)
+    at async extender_token (/root/workspave/cpmm_bonkfun_volume_bot/src/bonkfun/bot.ts:418:5)
+    at async runBonkfunVolumeBot (/root/workspave/cpmm_bonkfun_volume_bot/src/bonkfun/index.ts:78:5)
+==================================================
+
+[2025-09-18T08:17:55.628Z] Transaction 1 error:
+
+Error: Simulation failed. 
+Message: Transaction simulation failed: Attempt to debit an account but found no record of a prior credit.. 
+Logs: 
+[]. 
+Catch the `SendTransactionError` and call `getLogs()` on it for full details.
+    at Connection.sendEncodedTransaction (/root/workspave/cpmm_bonkfun_volume_bot/node_modules/@solana/web3.js/src/connection.ts:6053:13)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async Connection.sendRawTransaction (/root/workspave/cpmm_bonkfun_volume_bot/node_modules/@solana/web3.js/src/connection.ts:6009:20)
+    at async Connection.sendTransaction (/root/workspave/cpmm_bonkfun_volume_bot/node_modules/@solana/web3.js/src/connection.ts:5958:14)
+    at async sendTransactionsSequentially (/root/workspave/cpmm_bonkfun_volume_bot/src/bonkfun/bot.ts:766:22)
+    at async executeSwaps (/root/workspave/cpmm_bonkfun_volume_bot/src/bonkfun/bot.ts:235:2)
+    at async extender_token (/root/workspave/cpmm_bonkfun_volume_bot/src/bonkfun/bot.ts:418:5)
+    at async runBonkfunVolumeBot (/root/workspave/cpmm_bonkfun_volume_bot/src/bonkfun/index.ts:78:5)
+==================================================
+
+[2025-09-18T08:17:55.671Z] Transaction 2 error:
+
+Error: Simulation failed. 
+Message: Transaction simulation failed: Attempt to debit an account but found no record of a prior credit.. 
+Logs: 
+[]. 
+Catch the `SendTransactionError` and call `getLogs()` on it for full details.
+    at Connection.sendEncodedTransaction (/root/workspave/cpmm_bonkfun_volume_bot/node_modules/@solana/web3.js/src/connection.ts:6053:13)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async Connection.sendRawTransaction (/root/workspave/cpmm_bonkfun_volume_bot/node_modules/@solana/web3.js/src/connection.ts:6009:20)
+    at async Connection.sendTransaction (/root/workspave/cpmm_bonkfun_volume_bot/node_modules/@solana/web3.js/src/connection.ts:5958:14)
+    at async sendTransactionsSequentially (/root/workspave/cpmm_bonkfun_volume_bot/src/bonkfun/bot.ts:766:22)
+    at async executeSwaps (/root/workspave/cpmm_bonkfun_volume_bot/src/bonkfun/bot.ts:235:2)
+    at async extender_token (/root/workspave/cpmm_bonkfun_volume_bot/src/bonkfun/bot.ts:418:5)
+    at async runBonkfunVolumeBot (/root/workspave/cpmm_bonkfun_volume_bot/src/bonkfun/index.ts:78:5)
+==================================================
+
+[2025-09-18T08:17:55.675Z] Transaction 3 error:
+
+Error: Simulation failed. 
+Message: Transaction simulation failed: Attempt to debit an account but found no record of a prior credit.. 
+Logs: 
+[]. 
+Catch the `SendTransactionError` and call `getLogs()` on it for full details.
+    at Connection.sendEncodedTransaction (/root/workspave/cpmm_bonkfun_volume_bot/node_modules/@solana/web3.js/src/connection.ts:6053:13)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async Connection.sendRawTransaction (/root/workspave/cpmm_bonkfun_volume_bot/node_modules/@solana/web3.js/src/connection.ts:6009:20)
+    at async Connection.sendTransaction (/root/workspave/cpmm_bonkfun_volume_bot/node_modules/@solana/web3.js/src/connection.ts:5958:14)
+    at async sendTransactionsSequentially (/root/workspave/cpmm_bonkfun_volume_bot/src/bonkfun/bot.ts:766:22)
+    at async executeSwaps (/root/workspave/cpmm_bonkfun_volume_bot/src/bonkfun/bot.ts:235:2)
+    at async extender_token (/root/workspave/cpmm_bonkfun_volume_bot/src/bonkfun/bot.ts:418:5)
+    at async runBonkfunVolumeBot (/root/workspave/cpmm_bonkfun_volume_bot/src/bonkfun/index.ts:78:5)
+==================================================
+
+[2025-09-18T08:17:55.679Z] Transaction 4 error:
+
+Error: Simulation failed. 
+Message: Transaction simulation failed: Attempt to debit an account but found no record of a prior credit.. 
+Logs: 
+[]. 
+Catch the `SendTransactionError` and call `getLogs()` on it for full details.
+    at Connection.sendEncodedTransaction (/root/workspave/cpmm_bonkfun_volume_bot/node_modules/@solana/web3.js/src/connection.ts:6053:13)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async Connection.sendRawTransaction (/root/workspave/cpmm_bonkfun_volume_bot/node_modules/@solana/web3.js/src/connection.ts:6009:20)
+    at async Connection.sendTransaction (/root/workspave/cpmm_bonkfun_volume_bot/node_modules/@solana/web3.js/src/connection.ts:5958:14)
+    at async sendTransactionsSequentially (/root/workspave/cpmm_bonkfun_volume_bot/src/bonkfun/bot.ts:766:22)
+    at async executeSwaps (/root/workspave/cpmm_bonkfun_volume_bot/src/bonkfun/bot.ts:235:2)
+    at async extender_token (/root/workspave/cpmm_bonkfun_volume_bot/src/bonkfun/bot.ts:418:5)
+    at async runBonkfunVolumeBot (/root/workspave/cpmm_bonkfun_volume_bot/src/bonkfun/index.ts:78:5)
+==================================================
+
+[2025-09-18T08:18:03.543Z] Transaction 1 error:
+
+Error: Simulation failed. 
+Message: Transaction simulation failed: Attempt to debit an account but found no record of a prior credit.. 
+Logs: 
+[]. 
+Catch the `SendTransactionError` and call `getLogs()` on it for full details.
+    at Connection.sendEncodedTransaction (/root/workspave/cpmm_bonkfun_volume_bot/node_modules/@solana/web3.js/src/connection.ts:6053:13)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async Connection.sendRawTransaction (/root/workspave/cpmm_bonkfun_volume_bot/node_modules/@solana/web3.js/src/connection.ts:6009:20)
+    at async Connection.sendTransaction (/root/workspave/cpmm_bonkfun_volume_bot/node_modules/@solana/web3.js/src/connection.ts:5958:14)
+    at async sendTransactionsSequentially (/root/workspave/cpmm_bonkfun_volume_bot/src/bonkfun/bot.ts:766:22)
+    at async executeSwaps (/root/workspave/cpmm_bonkfun_volume_bot/src/bonkfun/bot.ts:235:2)
+    at async extender_token (/root/workspave/cpmm_bonkfun_volume_bot/src/bonkfun/bot.ts:418:5)
+    at async runBonkfunVolumeBot (/root/workspave/cpmm_bonkfun_volume_bot/src/bonkfun/index.ts:78:5)
+==================================================
+
+[2025-09-18T08:18:03.546Z] Transaction 2 error:
+
+Error: Simulation failed. 
+Message: Transaction simulation failed: Attempt to debit an account but found no record of a prior credit.. 
+Logs: 
+[]. 
+Catch the `SendTransactionError` and call `getLogs()` on it for full details.
+    at Connection.sendEncodedTransaction (/root/workspave/cpmm_bonkfun_volume_bot/node_modules/@solana/web3.js/src/connection.ts:6053:13)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async Connection.sendRawTransaction (/root/workspave/cpmm_bonkfun_volume_bot/node_modules/@solana/web3.js/src/connection.ts:6009:20)
+    at async Connection.sendTransaction (/root/workspave/cpmm_bonkfun_volume_bot/node_modules/@solana/web3.js/src/connection.ts:5958:14)
+    at async sendTransactionsSequentially (/root/workspave/cpmm_bonkfun_volume_bot/src/bonkfun/bot.ts:766:22)
+    at async executeSwaps (/root/workspave/cpmm_bonkfun_volume_bot/src/bonkfun/bot.ts:235:2)
+    at async extender_token (/root/workspave/cpmm_bonkfun_volume_bot/src/bonkfun/bot.ts:418:5)
+    at async runBonkfunVolumeBot (/root/workspave/cpmm_bonkfun_volume_bot/src/bonkfun/index.ts:78:5)
+==================================================
+
+[2025-09-18T08:18:03.553Z] Transaction 3 error:
+
+Error: Simulation failed. 
+Message: Transaction simulation failed: Attempt to debit an account but found no record of a prior credit.. 
+Logs: 
+[]. 
+Catch the `SendTransactionError` and call `getLogs()` on it for full details.
+    at Connection.sendEncodedTransaction (/root/workspave/cpmm_bonkfun_volume_bot/node_modules/@solana/web3.js/src/connection.ts:6053:13)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async Connection.sendRawTransaction (/root/workspave/cpmm_bonkfun_volume_bot/node_modules/@solana/web3.js/src/connection.ts:6009:20)
+    at async Connection.sendTransaction (/root/workspave/cpmm_bonkfun_volume_bot/node_modules/@solana/web3.js/src/connection.ts:5958:14)
+    at async sendTransactionsSequentially (/root/workspave/cpmm_bonkfun_volume_bot/src/bonkfun/bot.ts:766:22)
+    at async executeSwaps (/root/workspave/cpmm_bonkfun_volume_bot/src/bonkfun/bot.ts:235:2)
+    at async extender_token (/root/workspave/cpmm_bonkfun_volume_bot/src/bonkfun/bot.ts:418:5)
+    at async runBonkfunVolumeBot (/root/workspave/cpmm_bonkfun_volume_bot/src/bonkfun/index.ts:78:5)
+==================================================
+
+[2025-09-18T08:25:02.592Z] Transaction 1 error:
+Program 11111111111111111111111111111111 invoke [1]
+Program 11111111111111111111111111111111 success
+Program 11111111111111111111111111111111 invoke [1]
+Program 11111111111111111111111111111111 success
+Program 11111111111111111111111111111111 invoke [1]
+Program 11111111111111111111111111111111 success
+Error: Simulation failed. 
+Message: Transaction simulation failed: Transaction results in an account (0) with insufficient funds for rent. 
+Logs: 
+[
+  "Program 11111111111111111111111111111111 invoke [1]",
+  "Program 11111111111111111111111111111111 success",
+  "Program 11111111111111111111111111111111 invoke [1]",
+  "Program 11111111111111111111111111111111 success",
+  "Program 11111111111111111111111111111111 invoke [1]",
+  "Program 11111111111111111111111111111111 success"
+]. 
+Catch the `SendTransactionError` and call `getLogs()` on it for full details.
+    at Connection.sendEncodedTransaction (/root/workspave/cpmm_bonkfun_volume_bot/node_modules/@solana/web3.js/src/connection.ts:6053:13)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async Connection.sendRawTransaction (/root/workspave/cpmm_bonkfun_volume_bot/node_modules/@solana/web3.js/src/connection.ts:6009:20)
+    at async Connection.sendTransaction (/root/workspave/cpmm_bonkfun_volume_bot/node_modules/@solana/web3.js/src/connection.ts:5958:14)
+    at async sendTransactionsSequentially (/root/workspave/cpmm_bonkfun_volume_bot/src/bonkfun/bot.ts:766:22)
+    at async executeSwaps (/root/workspave/cpmm_bonkfun_volume_bot/src/bonkfun/bot.ts:235:2)
+    at async extender_sol (/root/workspave/cpmm_bonkfun_volume_bot/src/bonkfun/bot.ts:658:5)
+    at async runBonkfunVolumeBot (/root/workspave/cpmm_bonkfun_volume_bot/src/bonkfun/index.ts:75:5)
+==================================================
+
+[2025-09-18T08:25:02.789Z] Transaction 2 error:
+Program ComputeBudget111111111111111111111111111111 invoke [1]
+Program ComputeBudget111111111111111111111111111111 success
+Program ComputeBudget111111111111111111111111111111 invoke [1]
+Program ComputeBudget111111111111111111111111111111 success
+Program ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL invoke [1]
+Program log: CreateIdempotent
+Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+Program log: Instruction: GetAccountDataSize
+Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 1569 of 1388219 compute units
+Program return: TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA pQAAAAAAAAA=
+Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+Program 11111111111111111111111111111111 invoke [2]
+Program 11111111111111111111111111111111 success
+Program log: Initialize the associated token account
+Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+Program log: Instruction: InitializeImmutableOwner
+Program log: Please upgrade to SPL Token 2022 for immutable owner support
+Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 1405 of 1381632 compute units
+Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+Program log: Instruction: InitializeAccount3
+Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3158 of 1377750 compute units
+Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+Program ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL consumed 25412 of 1399700 compute units
+Program ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL success
+Program 11111111111111111111111111111111 invoke [1]
+Program 11111111111111111111111111111111 success
+Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [1]
+Program log: Instruction: SyncNative
+Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3045 of 1374138 compute units
+Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+Program ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL invoke [1]
+Program log: CreateIdempotent
+Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+Program log: Instruction: GetAccountDataSize
+Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 1569 of 1359612 compute units
+Program return: TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA pQAAAAAAAAA=
+Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+Program 11111111111111111111111111111111 invoke [2]
+Program 11111111111111111111111111111111 success
+Program log: Initialize the associated token account
+Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+Program log: Instruction: InitializeImmutableOwner
+Program log: Please upgrade to SPL Token 2022 for immutable owner support
+Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 1405 of 1353025 compute units
+Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+Program log: Instruction: InitializeAccount3
+Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4188 of 1349143 compute units
+Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+Program ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL consumed 26442 of 1371093 compute units
+Program ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL success
+Program LanMV9sAd7wArD4vJFi2qDdfnVhFxYSUg6eADduJ3uj invoke [1]
+Program log: Instruction: BuyExactIn
+Program LanMV9sAd7wArD4vJFi2qDdfnVhFxYSUg6eADduJ3uj invoke [2]
+Program LanMV9sAd7wArD4vJFi2qDdfnVhFxYSUg6eADduJ3uj consumed 2039 of 1313617 compute units
+Program LanMV9sAd7wArD4vJFi2qDdfnVhFxYSUg6eADduJ3uj success
+Program data: vdt/007mYe4GM2g8tg8PmKliVhj6cz1tA7l8NDJ5l0Q47p2Fcu1evAB4xftR0QIA3nQOPunPAwDXrzD8BgAAAHiKCY8kEwEAIfgYvgIAAABXis0LJRMBAIGzGr4CAAAAN8EBAAAAAADf/8N8AAAAACABAAAAAAAAfgQAAAAAAAA5AAAAAAAAAAAAAAAAAAAAAAAB
+Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+Program log: Instruction: TransferChecked
+Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 6238 of 1308001 compute units
+Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+Program log: Instruction: TransferChecked
+Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 6147 of 1298642 compute units
+Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+Program log: Instruction: TransferChecked
+Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 6238 of 1285185 compute units
+Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+Program log: Instruction: TransferChecked
+Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 6238 of 1275823 compute units
+Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+Program LanMV9sAd7wArD4vJFi2qDdfnVhFxYSUg6eADduJ3uj consumed 77314 of 1344651 compute units
+Program LanMV9sAd7wArD4vJFi2qDdfnVhFxYSUg6eADduJ3uj success
+Error: Simulation failed. 
+Message: Transaction simulation failed: Transaction results in an account (0) with insufficient funds for rent. 
+Logs: 
+[
+  "Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]",
+  "Program log: Instruction: TransferChecked",
+  "Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 6238 of 1285185 compute units",
+  "Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success",
+  "Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]",
+  "Program log: Instruction: TransferChecked",
+  "Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 6238 of 1275823 compute units",
+  "Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success",
+  "Program LanMV9sAd7wArD4vJFi2qDdfnVhFxYSUg6eADduJ3uj consumed 77314 of 1344651 compute units",
+  "Program LanMV9sAd7wArD4vJFi2qDdfnVhFxYSUg6eADduJ3uj success"
+]. 
+Catch the `SendTransactionError` and call `getLogs()` on it for full details.
+    at Connection.sendEncodedTransaction (/root/workspave/cpmm_bonkfun_volume_bot/node_modules/@solana/web3.js/src/connection.ts:6053:13)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async Connection.sendRawTransaction (/root/workspave/cpmm_bonkfun_volume_bot/node_modules/@solana/web3.js/src/connection.ts:6009:20)
+    at async Connection.sendTransaction (/root/workspave/cpmm_bonkfun_volume_bot/node_modules/@solana/web3.js/src/connection.ts:5958:14)
+    at async sendTransactionsSequentially (/root/workspave/cpmm_bonkfun_volume_bot/src/bonkfun/bot.ts:766:22)
+    at async executeSwaps (/root/workspave/cpmm_bonkfun_volume_bot/src/bonkfun/bot.ts:235:2)
+    at async extender_sol (/root/workspave/cpmm_bonkfun_volume_bot/src/bonkfun/bot.ts:658:5)
+    at async runBonkfunVolumeBot (/root/workspave/cpmm_bonkfun_volume_bot/src/bonkfun/index.ts:75:5)
+==================================================
+
+[2025-09-18T08:25:02.936Z] Transaction 3 error:
+Program ComputeBudget111111111111111111111111111111 invoke [1]
+Program ComputeBudget111111111111111111111111111111 success
+Program ComputeBudget111111111111111111111111111111 invoke [1]
+Program ComputeBudget111111111111111111111111111111 success
+Program ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL invoke [1]
+Program log: CreateIdempotent
+Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+Program log: Instruction: GetAccountDataSize
+Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 1569 of 1391219 compute units
+Program return: TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA pQAAAAAAAAA=
+Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+Program 11111111111111111111111111111111 invoke [2]
+Program 11111111111111111111111111111111 success
+Program log: Initialize the associated token account
+Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+Program log: Instruction: InitializeImmutableOwner
+Program log: Please upgrade to SPL Token 2022 for immutable owner support
+Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 1405 of 1384632 compute units
+Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+Program log: Instruction: InitializeAccount3
+Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3158 of 1380750 compute units
+Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+Program ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL consumed 22412 of 1399700 compute units
+Program ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL success
+Program 11111111111111111111111111111111 invoke [1]
+Program 11111111111111111111111111111111 success
+Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [1]
+Program log: Instruction: SyncNative
+Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3045 of 1377138 compute units
+Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+Program ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL invoke [1]
+Program log: CreateIdempotent
+Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+Program log: Instruction: GetAccountDataSize
+Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 1569 of 1367112 compute units
+Program return: TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA pQAAAAAAAAA=
+Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+Program 11111111111111111111111111111111 invoke [2]
+Program 11111111111111111111111111111111 success
+Program log: Initialize the associated token account
+Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+Program log: Instruction: InitializeImmutableOwner
+Program log: Please upgrade to SPL Token 2022 for immutable owner support
+Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 1405 of 1360525 compute units
+Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+Program log: Instruction: InitializeAccount3
+Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4188 of 1356643 compute units
+Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+Program ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL consumed 21942 of 1374093 compute units
+Program ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL success
+Program LanMV9sAd7wArD4vJFi2qDdfnVhFxYSUg6eADduJ3uj invoke [1]
+Program log: Instruction: BuyExactIn
+Program LanMV9sAd7wArD4vJFi2qDdfnVhFxYSUg6eADduJ3uj invoke [2]
+Program LanMV9sAd7wArD4vJFi2qDdfnVhFxYSUg6eADduJ3uj consumed 2039 of 1321117 compute units
+Program LanMV9sAd7wArD4vJFi2qDdfnVhFxYSUg6eADduJ3uj success
+Program data: vdt/007mYe4GM2g8tg8PmKliVhj6cz1tA7l8NDJ5l0Q47p2Fcu1evAB4xftR0QIA3nQOPunPAwDXrzD8BgAAAHiKCY8kEwEAIfgYvgIAAABXis0LJRMBAIGzGr4CAAAAN8EBAAAAAADf/8N8AAAAACABAAAAAAAAfgQAAAAAAAA5AAAAAAAAAAAAAAAAAAAAAAAB
+Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+Program log: Instruction: TransferChecked
+Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 6238 of 1315501 compute units
+Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+Program log: Instruction: TransferChecked
+Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 6147 of 1306142 compute units
+Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+Program log: Instruction: TransferChecked
+Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 6238 of 1292685 compute units
+Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+Program log: Instruction: TransferChecked
+Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 6238 of 1283323 compute units
+Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+Program LanMV9sAd7wArD4vJFi2qDdfnVhFxYSUg6eADduJ3uj consumed 77314 of 1352151 compute units
+Program LanMV9sAd7wArD4vJFi2qDdfnVhFxYSUg6eADduJ3uj success
+Error: Simulation failed. 
+Message: Transaction simulation failed: Transaction results in an account (0) with insufficient funds for rent. 
+Logs: 
+[
+  "Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]",
+  "Program log: Instruction: TransferChecked",
+  "Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 6238 of 1292685 compute units",
+  "Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success",
+  "Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]",
+  "Program log: Instruction: TransferChecked",
+  "Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 6238 of 1283323 compute units",
+  "Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success",
+  "Program LanMV9sAd7wArD4vJFi2qDdfnVhFxYSUg6eADduJ3uj consumed 77314 of 1352151 compute units",
+  "Program LanMV9sAd7wArD4vJFi2qDdfnVhFxYSUg6eADduJ3uj success"
+]. 
+Catch the `SendTransactionError` and call `getLogs()` on it for full details.
+    at Connection.sendEncodedTransaction (/root/workspave/cpmm_bonkfun_volume_bot/node_modules/@solana/web3.js/src/connection.ts:6053:13)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async Connection.sendRawTransaction (/root/workspave/cpmm_bonkfun_volume_bot/node_modules/@solana/web3.js/src/connection.ts:6009:20)
+    at async Connection.sendTransaction (/root/workspave/cpmm_bonkfun_volume_bot/node_modules/@solana/web3.js/src/connection.ts:5958:14)
+    at async sendTransactionsSequentially (/root/workspave/cpmm_bonkfun_volume_bot/src/bonkfun/bot.ts:766:22)
+    at async executeSwaps (/root/workspave/cpmm_bonkfun_volume_bot/src/bonkfun/bot.ts:235:2)
+    at async extender_sol (/root/workspave/cpmm_bonkfun_volume_bot/src/bonkfun/bot.ts:658:5)
+    at async runBonkfunVolumeBot (/root/workspave/cpmm_bonkfun_volume_bot/src/bonkfun/index.ts:75:5)
+==================================================
+
+[2025-09-18T08:25:03.085Z] Transaction 4 error:
+Program ComputeBudget111111111111111111111111111111 invoke [1]
+Program ComputeBudget111111111111111111111111111111 success
+Program ComputeBudget111111111111111111111111111111 invoke [1]
+Program ComputeBudget111111111111111111111111111111 success
+Program ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL invoke [1]
+Program log: CreateIdempotent
+Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+Program log: Instruction: GetAccountDataSize
+Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 1569 of 1394219 compute units
+Program return: TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA pQAAAAAAAAA=
+Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+Program 11111111111111111111111111111111 invoke [2]
+Program 11111111111111111111111111111111 success
+Program log: Initialize the associated token account
+Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+Program log: Instruction: InitializeImmutableOwner
+Program log: Please upgrade to SPL Token 2022 for immutable owner support
+Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 1405 of 1387632 compute units
+Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+Program log: Instruction: InitializeAccount3
+Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3158 of 1383750 compute units
+Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+Program ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL consumed 19412 of 1399700 compute units
+Program ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL success
+Program 11111111111111111111111111111111 invoke [1]
+Program 11111111111111111111111111111111 success
+Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [1]
+Program log: Instruction: SyncNative
+Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3045 of 1380138 compute units
+Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+Program ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL invoke [1]
+Program log: CreateIdempotent
+Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+Program log: Instruction: GetAccountDataSize
+Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 1569 of 1368612 compute units
+Program return: TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA pQAAAAAAAAA=
+Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+Program 11111111111111111111111111111111 invoke [2]
+Program 11111111111111111111111111111111 success
+Program log: Initialize the associated token account
+Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+Program log: Instruction: InitializeImmutableOwner
+Program log: Please upgrade to SPL Token 2022 for immutable owner support
+Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 1405 of 1362025 compute units
+Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+Program log: Instruction: InitializeAccount3
+Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4188 of 1358143 compute units
+Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+Program ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL consumed 23442 of 1377093 compute units
+Program ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL success
+Program LanMV9sAd7wArD4vJFi2qDdfnVhFxYSUg6eADduJ3uj invoke [1]
+Program log: Instruction: BuyExactIn
+Program LanMV9sAd7wArD4vJFi2qDdfnVhFxYSUg6eADduJ3uj invoke [2]
+Program LanMV9sAd7wArD4vJFi2qDdfnVhFxYSUg6eADduJ3uj consumed 2039 of 1322617 compute units
+Program LanMV9sAd7wArD4vJFi2qDdfnVhFxYSUg6eADduJ3uj success
+Program data: vdt/007mYe4GM2g8tg8PmKliVhj6cz1tA7l8NDJ5l0Q47p2Fcu1evAB4xftR0QIA3nQOPunPAwDXrzD8BgAAAHiKCY8kEwEAIfgYvgIAAABXis0LJRMBAIGzGr4CAAAAN8EBAAAAAADf/8N8AAAAACABAAAAAAAAfgQAAAAAAAA5AAAAAAAAAAAAAAAAAAAAAAAB
+Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+Program log: Instruction: TransferChecked
+Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 6238 of 1317001 compute units
+Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+Program log: Instruction: TransferChecked
+Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 6147 of 1307642 compute units
+Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+Program log: Instruction: TransferChecked
+Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 6238 of 1294185 compute units
+Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+Program log: Instruction: TransferChecked
+Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 6238 of 1284823 compute units
+Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+Program LanMV9sAd7wArD4vJFi2qDdfnVhFxYSUg6eADduJ3uj consumed 77314 of 1353651 compute units
+Program LanMV9sAd7wArD4vJFi2qDdfnVhFxYSUg6eADduJ3uj success
+Program 11111111111111111111111111111111 invoke [1]
+Program 11111111111111111111111111111111 success
+Error: Simulation failed. 
+Message: Transaction simulation failed: Transaction results in an account (0) with insufficient funds for rent. 
+Logs: 
+[
+  "Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 6238 of 1294185 compute units",
+  "Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success",
+  "Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]",
+  "Program log: Instruction: TransferChecked",
+  "Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 6238 of 1284823 compute units",
+  "Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success",
+  "Program LanMV9sAd7wArD4vJFi2qDdfnVhFxYSUg6eADduJ3uj consumed 77314 of 1353651 compute units",
+  "Program LanMV9sAd7wArD4vJFi2qDdfnVhFxYSUg6eADduJ3uj success",
+  "Program 11111111111111111111111111111111 invoke [1]",
+  "Program 11111111111111111111111111111111 success"
+]. 
+Catch the `SendTransactionError` and call `getLogs()` on it for full details.
+    at Connection.sendEncodedTransaction (/root/workspave/cpmm_bonkfun_volume_bot/node_modules/@solana/web3.js/src/connection.ts:6053:13)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async Connection.sendRawTransaction (/root/workspave/cpmm_bonkfun_volume_bot/node_modules/@solana/web3.js/src/connection.ts:6009:20)
+    at async Connection.sendTransaction (/root/workspave/cpmm_bonkfun_volume_bot/node_modules/@solana/web3.js/src/connection.ts:5958:14)
+    at async sendTransactionsSequentially (/root/workspave/cpmm_bonkfun_volume_bot/src/bonkfun/bot.ts:766:22)
+    at async executeSwaps (/root/workspave/cpmm_bonkfun_volume_bot/src/bonkfun/bot.ts:235:2)
+    at async extender_sol (/root/workspave/cpmm_bonkfun_volume_bot/src/bonkfun/bot.ts:658:5)
+    at async runBonkfunVolumeBot (/root/workspave/cpmm_bonkfun_volume_bot/src/bonkfun/index.ts:75:5)
+==================================================

@@ -347,7 +347,7 @@ export async function extender_token(config: any = null) {
 		fs.mkdirSync(marketKeypairsDir, { recursive: true });
 	}
 
-	const backupDir = path.join(path.dirname(keypairsDir), "../backup", baseMint.toBase58());
+	const backupDir = path.join(path.dirname(keypairsDir), "backup", baseMint.toBase58());
 
 	if (!fs.existsSync(backupDir)) {
 		//fs.mkdirSync(backupDir, { recursive: true });
@@ -376,9 +376,9 @@ export async function extender_token(config: any = null) {
 		const b1 = await getSwapQuote(sellAmounts[0], baseMint.toBase58(), spl.NATIVE_MINT.toBase58());
 		const b2 = await getSwapQuote(sellAmounts[1], baseMint.toBase58(), spl.NATIVE_MINT.toBase58());
 		const buyAmount = getRandomNumber1(a1, a2);
-
-		const delay = getRandomNumber(delayAmounts[0], delayAmounts[1]);
 		const sellAmount = getRandomNumber1(b1, b2 );
+		const delay = getRandomNumber(delayAmounts[0], delayAmounts[1]);
+		
 		const walletNumber = getRandomNumber(walletNumbers[0], walletNumbers[1]);
 		// const walletNumber = 0;
 		console.error(chalk.red("buy amount- 11 ------------------"), a1);
@@ -956,5 +956,3 @@ function isValidSolanaAddress(address: PublicKey) {
 		return false;
 	}
 }
-
-

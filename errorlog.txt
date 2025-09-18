@@ -7323,3 +7323,12 @@
     }
   ]
 }
+2025-09-18T07:34:45.434Z - Simulation sendsol error: "AccountNotFound"
+2025-09-18T07:34:47.927Z - Simulation sendsol error: "AccountNotFound"
+2025-09-18T08:17:55.542Z - Simulation sendsol error: "AccountNotFound"
+2025-09-18T08:18:03.503Z - Simulation sendsol error: "AccountNotFound"
+2025-09-18T08:25:01.547Z - Simulation sendsol error: {
+  "InsufficientFundsForRent": {
+    "account_index": 0
+  }
+}
