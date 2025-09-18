@@ -7313,3 +7313,13 @@
     }
   ]
 }
+2025-09-18T06:17:45.060Z - Simulation sendsol error: "AccountNotFound"
+2025-09-18T06:17:54.095Z - Simulation sendsol error: "AccountNotFound"
+2025-09-18T06:31:37.137Z - Simulation sendsol error: {
+  "InstructionError": [
+    1,
+    {
+      "Custom": 1
+    }
+  ]
+}

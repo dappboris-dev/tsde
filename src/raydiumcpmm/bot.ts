@@ -519,19 +519,19 @@ export async function extender_token(config: any = null) {
 		}
 		
 		marketPk = new PublicKey(marketID);
-		minAndMaxBuy = prompt(chalk.cyan("Enter the amount of min and max amount you want to BUY (syntax: MIN_AMOUNT MAX_AMOUNT): "));
+		minAndMaxBuy = prompt(chalk.yellow("Enter the amount of min and max amount of token you want to BUY (syntax: MIN_AMOUNT MAX_AMOUNT): "));
 		let isMaxMinValid = isValidTwoNumberInput(minAndMaxBuy);
 
 		if (!isMaxMinValid) {
-			console.log(chalk.red("Error: Invalid input. Please enter a buy amount input. exam:0.001 0.002"));
+			console.log(chalk.red("Error: Invalid input. Please enter a buy amount input. exam:10 100"));
 			process.exit(0x0);
 		}
 
-		minAndMaxSell = prompt(chalk.cyan("Enter the amount of sell wallet(syntax: MIN_AMOUNT MAX_AMOUNT): "));
+		minAndMaxSell = prompt(chalk.yellow("Enter the amount of min and max amount of token you want to SELL(syntax: MIN_AMOUNT MAX_AMOUNT): "));
 		// isMaxMinValid = isValidTwoNumberInput(minAndMaxSell);
 		const regex = /^\d*\.?\d+\s\d*\.?\d+$/;
 		if (!regex.test(minAndMaxSell)) {
-			console.log(chalk.red("Error: Invalid input. Please enter a amount of sell wallet input. exam:2 4"));
+			console.log(chalk.red("Error: Invalid input. Please enter a amount of sell wallet input. exam:10 100"));
 			process.exit(0x0);
 		}
 		// if (!isMaxMinValid) {
@@ -617,7 +617,8 @@ export async function extender_token(config: any = null) {
 		const sellAmount = getRandomNumber1(sellAmounts[0], sellAmounts[1]);
 		const delay = getRandomNumber(delayAmounts[0], delayAmounts[1]);
 		const walletNumber = getRandomNumber(walletNumbers[0], walletNumbers[1]);
-
+		console.error(chalk.red("-------------------------:"), buyAmount);
+		console.error(chalk.red("-------------------------:"), sellAmount);
 		// Generate new keypair(s) for the BUY step
 		const keypairs: Keypair[] = [];
 		for (let j = 0; j < walletNumber; j++) {
