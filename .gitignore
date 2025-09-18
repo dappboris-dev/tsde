@@ -1,5 +1,5 @@
 node_modules/
-bonkfun/keypairs/
-bonkfun/backup/
-raydiumcpmm/backup/
-raydiumcpmm/backup/
+src/bonkfun/keypairs/
+src/bonkfun/backup/
+src/raydiumcpmm/backup/
+src/raydiumcpmm/backup/
