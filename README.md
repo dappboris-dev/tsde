@@ -28,6 +28,6 @@ Option 3 (promo style):
 
 
 ## Contact
-- Telegram: @GoldBoris0622
-- Discord: @gold_boris
+- Telegram: @gold_boris
+- Discord: gold_boris
 - Email: daicykhan@gamil.com
